@@ -20,6 +20,7 @@
   "homepage": "https://github.com/HtunThiha/SEED-docker-tutorial#readme",
   "dependencies": {
     "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "readline-sync": "^1.4.10"
   }
 }
