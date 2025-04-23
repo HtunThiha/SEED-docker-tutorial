@@ -1,0 +1,25 @@
+{
+  "name": "node_api_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HtunThiha/SEED-docker-tutorial.git"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Steve",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HtunThiha/SEED-docker-tutorial/issues"
+  },
+  "homepage": "https://github.com/HtunThiha/SEED-docker-tutorial#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
